@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://superlbr.github.io
+title: White and Black
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Baorong Li
 simple_search: https://www.google.com/search
 description:
 

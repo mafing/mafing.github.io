@@ -1,0 +1,8 @@
+---
+layout: post
+title: "test"
+date: 2014-07-12 18:39:28 +0800
+comments: true
+categories: 
+---
+<h3>welcome! br</h3>
